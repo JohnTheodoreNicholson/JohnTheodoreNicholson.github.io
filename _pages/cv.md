@@ -25,6 +25,12 @@ Teaching
   * Math 1B03 - Linear Algebra I (3 weekly tutorial sections), Winter 2025, McMaster University
   * Math 1ZC3 - Linear Algebra I - Engineering (3 weekly tutorial sections), Fall 2024, McMaster University
   * Math 1ZC3 - Linear Algebra I - Engineering (3 weekly tutorial sections), Fall 2024, McMaster University
+  * Math 1C03 - Introduction to Mathematical Reasoning (3 weekly tutorial sessions), Winter 2024, McMaster University
+  * Math 1ZC3 - Linear Algebra I - Engineering (3 weekly tutorial sections), Fall 2023, McMaster University 
+  * Math 1B03 - Linear Algebra I (3 weekly tutorial sections), Winter 2023, McMaster University
+  * Math 1B03 - Linear Algebra I (3 weekly tutorial sections), Fall 2022, McMaster University
+  * Math 4LT3 - Topics in Mathematical Logic, Grader, Winter 2021
+  * Math 1C03 - Introduction to Mathematical Reasoning, Grader, Fall 2021, McMaster University
 
 Talks
 ======
