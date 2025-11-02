@@ -17,9 +17,14 @@ Education
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Instructor
+  * Math 1MP3 - Introduction to Mathematical Scientific Computation, Summer 2025, McMaster University
+  * Math 1MP3 - Introduction to Mathematical Scientific Computation, Summer 2024, McMaster University
+* Teaching assistant
+  * Math 1ZC3 - Linear Algebra I - Engineering (3 weekly tutorial sections), Fall 2025, McMaster University
+  * Math 1B03 - Linear Algebra I (3 weekly tutorial sections), Winter 2025, McMaster University
+  * Math 1ZC3 - Linear Algebra I - Engineering (3 weekly tutorial sections), Fall 2024, McMaster University
+  * Math 1ZC3 - Linear Algebra I - Engineering (3 weekly tutorial sections), Fall 2024, McMaster University
 
 Talks
 ======
