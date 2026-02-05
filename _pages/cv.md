@@ -12,12 +12,13 @@ redirect_from:
 Education
 ======
 * Ph.D in Mathematics and Statistics, McMaster University, 2027 (expected)
-* M.S. in Mathematics, McMaster University, 2022
+* M.Sc. in Mathematics, McMaster University, 2022
 * H.B.Sc. in Mathematics and Physics, McMaster University, 2021
   
 Teaching
 ======
 * Instructor
+  * Math 1MP3 - Introduction to Mathematical Scientific Computation, Winter 2026, McMaster University
   * Math 1MP3 - Introduction to Mathematical Scientific Computation, Summer 2025, McMaster University
   * Math 1MP3 - Introduction to Mathematical Scientific Computation, Summer 2024, McMaster University
 * Teaching assistant
@@ -41,4 +42,4 @@ Talks
 Service and leadership
 ======
 * Committee member for the McMaster Math and Stats Careers Workshop
-* Mentor in the shadowing program offered through the McMaster Office of Undergraduate Research
+* Mentor in the shadowing program offered through the McMaster Office of Undergraduate Research, Fall 2025 - Present
